@@ -1,0 +1,17 @@
+commit 806e97db17f1091296c8d03c3486257eef8dd502
+Author: Snir Israeli <snir.isl@gmail.com>
+Date:   Tue May 5 15:33:36 2020 +0300
+
+    added gitignore
+
+commit 4b36fc49488c08f650d777ee1a8eec49448afb10
+Author: Snir Israeli <snir.isl@gmail.com>
+Date:   Tue May 5 12:33:52 2020 +0300
+
+    added two files
+
+commit 7549d5aeebd48b0790400646331c5763199900ea
+Author: Snir Israeli <snir.isl@gmail.com>
+Date:   Tue May 5 12:29:08 2020 +0300
+
+    added readme.txt
